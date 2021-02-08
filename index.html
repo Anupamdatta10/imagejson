@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<style>
+    .custom{
+        margin-top: 10px;
+    }
+    .logo
+    {
+        height: 50px;
+        width: 50px;
+    }
+</style>
+</head>
+<body>
+    <nav class="navbar navbar-light bg-light justify-content-between">
+        <a class="navbar-brand">Deck</a>
+        <form class="form-inline">
+          <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+      </nav>
+    <div class="container">
+        <div class="row" id="contentPanel">
+          
+           
+          
+        </div>
+    </div>
+
+    
+    <script>
+        $(document).ready(function(){
+          
+            $.get("https://raw.githubusercontent.com/Anupamdatta10/imagejson/main/images.json", function(data, status){
+              
+                let x=JSON.parse(data);
+               
+                
+                for(var k in x.images) {
+                console.log(k, x.images[k]["@AppName"]);
+                card(k,x.images[k]);
+                }
+                
+                });
+                
+        });
+        function card(i,data)
+        {
+            
+                var myCol = $('<div class="col-sm-6 col-md-4 col-xl-3"></div>');
+                var myPanel = $('<div class="card card-outline-info custom text-center" id="'+i+'Panel"><div class="card-block"><div class="card-title"><span>'+data["@AppName"]+'</span></div><img src="'+data['@Logo']+'" alt="..." class="rounded logo"><p>'+data["@Description"]+' </p><button type="button" class="btn btn-outline-primary">Add to deck</button></div></div>');
+                var logo=$('<img src="'+data['@Logo']+'" alt="..." class="rounded">');
+                myPanel.appendTo(myCol);
+                myCol.appendTo('#contentPanel');
+           
+    
+        }
+        </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
