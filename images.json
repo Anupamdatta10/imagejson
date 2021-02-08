@@ -1,0 +1,42 @@
+{
+  "images": [
+    {
+      "@AppID": "lamp-20012021",
+      "@AppName": "LAMP",
+      "@Logo": "https://raw.githubusercontent.com/deck-app/lamp-stack/main/default.png",
+      "@Description": "Perfect web development stack built with PHP, Apache, Mysql on Alpine Linux",
+      "@Tags": ["apache", "mysql", "PHP", "Alpine"],
+      "@Website": "https://get-deck.com",
+      "@Github": "deck-app/lamp-stack"
+    },
+    {
+      "@AppID": "lemp-06022021",
+      "@AppName": "LEMP",
+      "@Logo": "https://raw.githubusercontent.com/deck-app/lemp-stack/master/default.png",
+      "@Description": "Perfect web development stack built with PHP, nginx, mysql on Alpine Linux",
+      "@Tags": ["nginx", "mysql", "PHP", "Alpine"],
+      "@Website": "https://get-deck.com",
+      "@Github": "deck-app/lemp-stack"
+    },
+
+    {
+      "@AppID": "mautic-20012028",
+      "@AppName": "Mautic",
+      "@Logo": "https://raw.githubusercontent.com/deck-app/lamp-stack/main/default.png",
+      "@Description": "Perfect web development stack built with PHP, Apache, Mysql on Alpine Linux",
+      "@Tags": ["apache", "mysql", "PHP", "Alpine"],
+      "@Website": "https://get-deck.com",
+      "@Github": "deck-app/mautic"
+    },
+
+    {
+      "@AppID": "laravel-20012029",
+      "@AppName": "Laravel",
+      "@Logo": "https://raw.githubusercontent.com/deck-app/laravel/master/default.png",
+      "@Description": "Perfect web development stack built with PHP, Apache, Mysql on Alpine Linux",
+      "@Tags": ["laravel", "bitnami", "PHP"],
+      "@Website": "https://get-deck.com",
+      "@Github": "deck-app/laravel"
+    }
+  ]
+}
