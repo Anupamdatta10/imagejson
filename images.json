@@ -44,7 +44,7 @@
       },
 
       {
-        "@AppID": "wordpress-17/02/2021",
+        "@AppID": "wordpress-17022021",
         "@AppName": "wordpress",
         "@Logo": "https://raw.githubusercontent.com/deck-app/wordpress/master/default.png",
         "@Description": "",
@@ -55,7 +55,7 @@
       },
       
       {
-        "@AppID": "postgres-17/02/2021",
+        "@AppID": "postgres-17022021",
         "@AppName": "postgres",
         "@Logo": "https://raw.githubusercontent.com/deck-app/postgres/master/default.png",
         "@Description": "",
@@ -66,7 +66,7 @@
       },
 
       {
-        "@AppID": "apache-stack-17/02/2021",
+        "@AppID": "apache-stack-17022021",
         "@AppName": "apache-stack",
         "@Logo": "https://raw.githubusercontent.com/deck-app/apache-stack/master/default.png",
         "@Description": "",
@@ -77,7 +77,7 @@
       },
 
       {
-        "@AppID": "nginx-stack-17/02/2021",
+        "@AppID": "nginx-stack-17022021",
         "@AppName": "nginx-stack",
         "@Logo": "https://raw.githubusercontent.com/deck-app/nginx-stack/master/default.png",
         "@Description": "",
@@ -88,7 +88,7 @@
       },
 
       {
-        "@AppID": "mysql-17/02/2021",
+        "@AppID": "mysql-17022021",
         "@AppName": "mysql",
         "@Logo": "https://raw.githubusercontent.com/deck-app/mysql/master/default.png",
         "@Description": "",
@@ -99,7 +99,7 @@
       },
 
       {
-        "@AppID": "magento-17/02/2021",
+        "@AppID": "magento-17022021",
         "@AppName": "magento",
         "@Logo": "https://raw.githubusercontent.com/deck-app/magento/master/default.png",
         "@Description": "",
@@ -110,7 +110,7 @@
       },
 
       {
-        "@AppID": "ghost-17/02/2021",
+        "@AppID": "ghost-17022021",
         "@AppName": "ghost",
         "@Logo": "https://raw.githubusercontent.com/deck-app/ghost/master/default.png",
         "@Description": "",
@@ -121,7 +121,7 @@
       },
 
       {
-        "@AppID": "drupal-17/02/2021",
+        "@AppID": "drupal-17022021",
         "@AppName": "drupal",
         "@Logo": "https://raw.githubusercontent.com/deck-app/drupal/master/default.png",
         "@Description": "",
@@ -132,7 +132,7 @@
       },
 
       {
-        "@AppID": "django-17/02/2021",
+        "@AppID": "django-17022021",
         "@AppName": "django",
         "@Logo": "https://raw.githubusercontent.com/deck-app/django/master/default.png",
         "@Description": "",
@@ -143,7 +143,7 @@
       },
 
       {
-        "@AppID": "codeigniter-17/02/2021",
+        "@AppID": "codeigniter-17022021",
         "@AppName": "codeigniter",
         "@Logo": "https://raw.githubusercontent.com/deck-app/codeigniter/master/default.png",
         "@Description": "",
@@ -154,7 +154,7 @@
       },
 
       {
-        "@AppID": "elk-17/02/2021",
+        "@AppID": "elk-17022021",
         "@AppName": "elk",
         "@Logo": "https://raw.githubusercontent.com/deck-app/elk/master/default.png",
         "@Description": "",
@@ -165,7 +165,7 @@
       },
 
       {
-        "@AppID": "tastyIgniter-17/02/2021",
+        "@AppID": "tastyIgniter-17022021",
         "@AppName": "tastyIgniter",
         "@Logo": "https://raw.githubusercontent.com/deck-app/tastyIgniter/master/default.png",
         "@Description": "",
@@ -176,7 +176,7 @@
       },
 
       {
-        "@AppID": "nextcloud-17/02/2021",
+        "@AppID": "nextcloud-17022021",
         "@AppName": "nextcloud",
         "@Logo": "https://raw.githubusercontent.com/deck-app/nextcloud/master/default.png",
         "@Description": "",
@@ -187,7 +187,7 @@
       },
 
       {
-        "@AppID": "portainer-17/02/2021",
+        "@AppID": "portainer-17022021",
         "@AppName": "portainer",
         "@Logo": "https://raw.githubusercontent.com/deck-app/portainer/master/default.png",
         "@Description": "",
@@ -198,7 +198,7 @@
       },
 
       {
-        "@AppID": "confluence-17/02/2021",
+        "@AppID": "confluence-17022021",
         "@AppName": "confluence",
         "@Logo": "https://raw.githubusercontent.com/deck-app/confluence/master/default.png",
         "@Description": "",
@@ -209,7 +209,7 @@
       },
 
       {
-        "@AppID": "nodejs-17/02/2021",
+        "@AppID": "nodejs-17022021",
         "@AppName": "nodejs",
         "@Logo": "https://raw.githubusercontent.com/deck-app/nodejs/master/default.png",
         "@Description": "",
@@ -220,7 +220,7 @@
       },
 
       {
-        "@AppID": "adminer-17/02/2021",
+        "@AppID": "adminer-17022021",
         "@AppName": "adminer",
         "@Logo": "https://raw.githubusercontent.com/deck-app/adminer/master/default.png",
         "@Description": "",
@@ -231,7 +231,7 @@
       },
 
       {
-        "@AppID": "caddy-17/02/2021",
+        "@AppID": "caddy-17022021",
         "@AppName": "caddy",
         "@Logo": "https://raw.githubusercontent.com/deck-app/caddy/master/default.png",
         "@Description": "",
@@ -242,7 +242,7 @@
       },
 
       {
-        "@AppID": "n8n-17/02/2021",
+        "@AppID": "n8n-17022021",
         "@AppName": "n8n",
         "@Logo": "https://raw.githubusercontent.com/deck-app/n8n/master/default.png",
         "@Description": "",
@@ -253,7 +253,7 @@
       },
 
       {
-        "@AppID": "mongodb-17/02/2021",
+        "@AppID": "mongodb-17022021",
         "@AppName": "mongodb",
         "@Logo": "https://raw.githubusercontent.com/deck-app/mongodb/master/default.png",
         "@Description": "",
@@ -264,7 +264,7 @@
       },
 
       {
-        "@AppID": "suitecrm-17/02/2021",
+        "@AppID": "suitecrm-17022021",
         "@AppName": "suitecrm",
         "@Logo": "https://raw.githubusercontent.com/deck-app/suitecrm/master/default.png",
         "@Description": "",
@@ -275,7 +275,7 @@
       },
 
       {
-        "@AppID": "joomla-17/02/2021",
+        "@AppID": "joomla-17022021",
         "@AppName": "joomla",
         "@Logo": "https://raw.githubusercontent.com/deck-app/joomla/master/default.png",
         "@Description": "",
@@ -286,7 +286,7 @@
       },
 
       {
-        "@AppID": "flarum-17/02/2021",
+        "@AppID": "flarum-17022021",
         "@AppName": "flarum",
         "@Logo": "https://raw.githubusercontent.com/deck-app/flarum/master/default.png",
         "@Description": "",
@@ -297,7 +297,7 @@
       },
 
       {
-        "@AppID": "mailhog-17/02/2021",
+        "@AppID": "mailhog-17022021",
         "@AppName": "mailhog",
         "@Logo": "https://raw.githubusercontent.com/deck-app/mailhog/master/default.png",
         "@Description": "",
@@ -308,7 +308,7 @@
       },
 
       {
-        "@AppID": "docktober-17/02/2021",
+        "@AppID": "docktober-17022021",
         "@AppName": "docktober",
         "@Logo": "https://raw.githubusercontent.com/deck-app/docktober/master/default.png",
         "@Description": "",
@@ -319,7 +319,7 @@
       },
 
       {
-        "@AppID": "phalcon-17/02/2021",
+        "@AppID": "phalcon-17022021",
         "@AppName": "phalcon",
         "@Logo": "https://raw.githubusercontent.com/deck-app/phalcon/master/default.png",
         "@Description": "",
@@ -330,7 +330,7 @@
       },
 
       {
-        "@AppID": "gitlab-17/02/2021",
+        "@AppID": "gitlab-17022021",
         "@AppName": "gitlab",
         "@Logo": "https://raw.githubusercontent.com/deck-app/gitlab/master/default.png",
         "@Description": "",
@@ -341,7 +341,7 @@
       },
 
       {
-        "@AppID": "opencart-17/02/2021",
+        "@AppID": "opencart-17022021",
         "@AppName": "opencart",
         "@Logo": "https://raw.githubusercontent.com/deck-app/opencart/master/default.png",
         "@Description": "",
