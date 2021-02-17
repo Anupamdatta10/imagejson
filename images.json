@@ -1,42 +1,378 @@
 {
-  "images": [
-    {
-      "@AppID": "lamp-20012021",
-      "@AppName": "LAMP",
-      "@Logo": "https://raw.githubusercontent.com/deck-app/lamp-stack/main/default.png",
-      "@Description": "Perfect web development stack built with PHP, Apache, Mysql on Alpine Linux",
-      "@Tags": ["apache", "mysql", "PHP", "Alpine"],
-      "@Website": "https://get-deck.com",
-      "@Github": "deck-app/lamp-stack"
-    },
-    {
-      "@AppID": "lemp-06022021",
-      "@AppName": "LEMP",
-      "@Logo": "https://raw.githubusercontent.com/deck-app/lemp-stack/master/default.png",
-      "@Description": "Perfect web development stack built with PHP, nginx, mysql on Alpine Linux",
-      "@Tags": ["nginx", "mysql", "PHP", "Alpine"],
-      "@Website": "https://get-deck.com",
-      "@Github": "deck-app/lemp-stack"
-    },
+    "images": [
+      {
+        "@AppID": "lamp-20012021",
+        "@AppName": "LAMP",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/lamp-stack/main/default.png",
+        "@Description": "Perfect web development stack built with PHP, Apache, Mysql on Alpine Linux",
+        "@Tags": ["apache", "mysql", "PHP", "Alpine"],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/lamp-stack",
+        "@Category": []
+      },
+      {
+        "@AppID": "lemp-06022021",
+        "@AppName": "LEMP",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/lemp-stack/master/default.png",
+        "@Description": "Perfect web development stack built with PHP, nginx, mysql on Alpine Linux",
+        "@Tags": ["nginx", "mysql", "PHP", "Alpine"],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/lemp-stack",
+        "@Category": []
+      },
+  
+      {
+        "@AppID": "mautic-20012028",
+        "@AppName": "Mautic",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/lamp-stack/main/default.png",
+        "@Description": "Perfect web development stack built with PHP, Apache, Mysql on Alpine Linux",
+        "@Tags": ["apache", "mysql", "PHP", "Alpine"],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/mautic",
+        "@Category": []
+      },
+  
+      {
+        "@AppID": "laravel-20012029",
+        "@AppName": "Laravel",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/laravel/master/default.png",
+        "@Description": "Perfect web development stack built with PHP, Apache, Mysql on Alpine Linux",
+        "@Tags": ["laravel", "bitnami", "PHP"],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/laravel",
+        "@Category": []
+      },
 
-    {
-      "@AppID": "mautic-20012028",
-      "@AppName": "Mautic",
-      "@Logo": "https://raw.githubusercontent.com/deck-app/lamp-stack/main/default.png",
-      "@Description": "Perfect web development stack built with PHP, Apache, Mysql on Alpine Linux",
-      "@Tags": ["apache", "mysql", "PHP", "Alpine"],
-      "@Website": "https://get-deck.com",
-      "@Github": "deck-app/mautic"
-    },
+      {
+        "@AppID": "wordpress-17/02/2021",
+        "@AppName": "wordpress",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/wordpress/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/wordpress",
+        "@Category": []
+      },
+      
+      {
+        "@AppID": "postgres-17/02/2021",
+        "@AppName": "postgres",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/postgres/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/postgres",
+        "@Category": []
+      },
 
-    {
-      "@AppID": "laravel-20012029",
-      "@AppName": "Laravel",
-      "@Logo": "https://raw.githubusercontent.com/deck-app/laravel/master/default.png",
-      "@Description": "Perfect web development stack built with PHP, Apache, Mysql on Alpine Linux",
-      "@Tags": ["laravel", "bitnami", "PHP"],
-      "@Website": "https://get-deck.com",
-      "@Github": "deck-app/laravel"
-    }
-  ]
-}
+      {
+        "@AppID": "lemp-stack-17/02/2021",
+        "@AppName": "lemp-stack",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/lemp-stack/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/lemp-stack",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "lamp-stack-17/02/2021",
+        "@AppName": "lamp-stack",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/lamp-stack/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/lamp-stack",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "apache-stack-17/02/2021",
+        "@AppName": "apache-stack",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/apache-stack/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/apache-stack",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "nginx-stack-17/02/2021",
+        "@AppName": "nginx-stack",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/nginx-stack/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/nginx-stack",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "mysql-17/02/2021",
+        "@AppName": "mysql",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/mysql/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/mysql",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "magento-17/02/2021",
+        "@AppName": "magento",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/magento/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/magento",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "ghost-17/02/2021",
+        "@AppName": "ghost",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/ghost/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/ghost",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "drupal-17/02/2021",
+        "@AppName": "drupal",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/drupal/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/drupal",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "django-17/02/2021",
+        "@AppName": "django",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/django/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/django",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "codeigniter-17/02/2021",
+        "@AppName": "codeigniter",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/codeigniter/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/codeigniter",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "elk-17/02/2021",
+        "@AppName": "elk",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/elk/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/elk",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "tastyIgniter-17/02/2021",
+        "@AppName": "tastyIgniter",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/tastyIgniter/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/tastyIgniter",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "nextcloud-17/02/2021",
+        "@AppName": "nextcloud",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/nextcloud/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/nextcloud",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "portainer-17/02/2021",
+        "@AppName": "portainer",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/portainer/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/portainer",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "confluence-17/02/2021",
+        "@AppName": "confluence",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/confluence/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/confluence",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "nodejs-17/02/2021",
+        "@AppName": "nodejs",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/nodejs/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/nodejs",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "adminer-17/02/2021",
+        "@AppName": "adminer",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/adminer/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/adminer",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "caddy-17/02/2021",
+        "@AppName": "caddy",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/caddy/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/caddy",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "n8n-17/02/2021",
+        "@AppName": "n8n",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/n8n/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/n8n",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "mongodb-17/02/2021",
+        "@AppName": "mongodb",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/mongodb/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/mongodb",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "suitecrm-17/02/2021",
+        "@AppName": "suitecrm",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/suitecrm/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/suitecrm",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "joomla-17/02/2021",
+        "@AppName": "joomla",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/joomla/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/joomla",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "flarum-17/02/2021",
+        "@AppName": "flarum",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/flarum/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/flarum",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "mailhog-17/02/2021",
+        "@AppName": "mailhog",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/mailhog/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/mailhog",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "docktober-17/02/2021",
+        "@AppName": "docktober",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/docktober/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/docktober",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "phalcon-17/02/2021",
+        "@AppName": "phalcon",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/phalcon/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/phalcon",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "gitlab-17/02/2021",
+        "@AppName": "gitlab",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/gitlab/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/gitlab",
+        "@Category":[]
+      },
+
+      {
+        "@AppID": "opencart-17/02/2021",
+        "@AppName": "opencart",
+        "@Logo": "https://raw.githubusercontent.com/deck-app/opencart/master/default.png",
+        "@Description": "",
+        "@Tags": [],
+        "@Website": "https://get-deck.com",
+        "@Github": "deck-app/opencart",
+        "@Category":[]
+      }
+
+
+    ]
+  }
