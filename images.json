@@ -66,28 +66,6 @@
       },
 
       {
-        "@AppID": "lemp-stack-17/02/2021",
-        "@AppName": "lemp-stack",
-        "@Logo": "https://raw.githubusercontent.com/deck-app/lemp-stack/master/default.png",
-        "@Description": "",
-        "@Tags": [],
-        "@Website": "https://get-deck.com",
-        "@Github": "deck-app/lemp-stack",
-        "@Category":[]
-      },
-
-      {
-        "@AppID": "lamp-stack-17/02/2021",
-        "@AppName": "lamp-stack",
-        "@Logo": "https://raw.githubusercontent.com/deck-app/lamp-stack/master/default.png",
-        "@Description": "",
-        "@Tags": [],
-        "@Website": "https://get-deck.com",
-        "@Github": "deck-app/lamp-stack",
-        "@Category":[]
-      },
-
-      {
         "@AppID": "apache-stack-17/02/2021",
         "@AppName": "apache-stack",
         "@Logo": "https://raw.githubusercontent.com/deck-app/apache-stack/master/default.png",
