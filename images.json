@@ -183,7 +183,7 @@
         "@Tags": [],
         "@Website": "https://get-deck.com",
         "@Github": "deck-app/nextcloud",
-        "@Category":[]
+        "@Category":["productivity"]
       },
 
       {
@@ -249,7 +249,7 @@
         "@Tags": [],
         "@Website": "https://get-deck.com",
         "@Github": "deck-app/n8n",
-        "@Category":[]
+        "@Category":["productivity"]
       },
 
       {
