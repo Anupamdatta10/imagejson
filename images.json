@@ -40,7 +40,7 @@
         "@Tags": ["laravel", "bitnami", "PHP"],
         "@Website": "https://get-deck.com",
         "@Github": "deck-app/laravel",
-        "@Category": []
+        "@Category": ["frameworks"]
       },
 
       {
@@ -139,7 +139,7 @@
         "@Tags": [],
         "@Website": "https://get-deck.com",
         "@Github": "deck-app/django",
-        "@Category":[]
+        "@Category":["frameworks"]
       },
 
       {
@@ -150,7 +150,7 @@
         "@Tags": [],
         "@Website": "https://get-deck.com",
         "@Github": "deck-app/codeigniter",
-        "@Category":[]
+        "@Category":["frameworks"]
       },
 
       {
